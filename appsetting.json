@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "YourSQLServerConnectionStringHere"
+  },
+  "AggregationJobSettings": {
+    "SchedulePeriodInHours": 1
+  }
+}
